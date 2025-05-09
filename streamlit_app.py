@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🎈 하 하")
 st.info(
-    "jjjjjjjjjjjjjjjjjjjj하윙"
+    "하윙"
 )
 st.button("지도")
 import pandas as pd
